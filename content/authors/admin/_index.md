@@ -62,7 +62,7 @@ user_groups:
 #- Visitors
 ---
 
-I am a 2nd-year PhD student at Johns Hopkins University, supervised by [Prof. Alan Yuille](https://cs.jhu.edu/~ayuille/). I am a member of [CCVL lab](https://ccvl.jhu.edu/team/). Before this, I received my B.E. degree at Tsinghua Univeristy. I have also spent wonderful times at Adobe and Sensetime.
+I am a 4th-year PhD student at Johns Hopkins University, supervised by [Prof. Alan Yuille](https://cs.jhu.edu/~ayuille/) and [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I am a member of [CCVL lab](https://ccvl.jhu.edu/team/). Before this, I received my B.E. degree at Tsinghua Univeristy in 2018. I have also spent wonderful times at Facebook, Adobe and Sensetime.
 
 My research interest includes computer vision and natural language processing. 
 

@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Context-Aware Group Captioning via Self-Attention and Contrastive Features"
-authors: ["**Zhuowan Li**", "Quan Tran", "Long Mai", "Zhe Lin", "Alan Yuille"]
-date: "2020-02-11" 
+title: "Calibrating Concepts and Operations: Towards Symbolic Reasoning  on  Real Images"
+authors: ["**Zhuowan Li**", "Elias Stengel-Eskin", "Yixiao Zhang", "Cihang Xie", "Quan Tran", "Benjamin Van Durme", "Alan Yuille"]
+date: "2021-09-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-02-11" 
+publishDate: 2021-09-30T18:11:40-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2020-02-11"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2020"
+publication: "In *International Conference on Computer Vision* (**ICCV**), 2021"
 publication_short: ""
 
 abstract: ""
@@ -36,11 +36,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://arxiv.org/abs/2004.03708"
-url_code:
+url_pdf: "https://arxiv.org/abs/2110.00519"
+url_code: "https://github.com/Lizw14/CaliCO.git"
 url_dataset:
 url_poster:
-url_project: "project/groupcap"
+url_project: "project/ccosr"
 url_slides:
 url_source:
 url_video:
