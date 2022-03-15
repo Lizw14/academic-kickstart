@@ -49,7 +49,7 @@ While image captioning has progressed rapidly, existing works focus mainly on de
 ## Datasets
 {{< figure src="dataset.png" title="Table: Statistics of Conceptual Captions and Stock Captions" lightbox="true" >}}
  - Conceptual Captions Dataset
-   - Coming up soon.
+   - [Download](http://cs.jhu.edu/~zhuowan/ContextCap/conceptual_dataset.zip).
  - Stock Captions Dataset
    - Coming up soon.
 
