@@ -46,6 +46,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Lizw14
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Fft1WvwAAAAJ&hl=en
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/zhuowanli
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,7 +69,10 @@ user_groups:
 #- Visitors
 ---
 
-I am a 4th-year PhD student at Johns Hopkins University, supervised by [Prof. Alan Yuille](https://cs.jhu.edu/~ayuille/) and [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I am a member of [CCVL lab](https://ccvl.jhu.edu/team/). Before this, I received my B.E. degree at Tsinghua Univeristy in 2018. I have also spent wonderful times at Facebook, Adobe and Sensetime.
+I am a 5th-year PhD student at Johns Hopkins University, supervised by [Prof. Alan Yuille](https://cs.jhu.edu/~ayuille/) and [Prof. Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). I am a member of [CCVL lab](https://ccvl.jhu.edu/team/). Before this, I received my B.E. degree at Tsinghua Univeristy in 2018. I have also spent wonderful times at Facebook, Adobe and Sensetime.
 
-My research interest includes computer vision and natural language processing. 
+My research interest focuses on **computer vision and natural language processing**. My works relates to both large-scale pretraining and compositional models. I am also interested in model diagnosis including robustness, generaliation, compositionality, etc. I believe that the joint learning of vision and language offers mutual benefits!
 
+I am <span style="color:red"> **on the job market** </span> for research positions in 2023, including full-time/internship positions in industry and post-docs positions. Don't hesitate to reach out to me (at zli110 at jhu dot edu) if there is a potential fit:)
+
+In part time, I am a big fan of outdoor sports including rock climbing (recovering from a finger injury 😭), snowboarding, skiing, hiking, mountaineering, etc. Recently I also spent time in learning piano.
