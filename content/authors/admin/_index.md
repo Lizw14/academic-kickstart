@@ -73,6 +73,6 @@ I am a 5th-year PhD student at Johns Hopkins University, supervised by [Prof. Al
 
 My research interest focuses on **computer vision and natural language processing**. My works relates to both large-scale pretraining and compositional models. I am also interested in model diagnosis including robustness, generaliation, compositionality, etc. I believe that the joint learning of vision and language offers mutual benefits!
 
-I am <span style="color:red"> **on the job market** </span> for research positions in 2023, including full-time/internship positions in industry and post-docs positions. Don't hesitate to reach out to me (at zli110 at jhu dot edu) if there is a potential fit:)
+I am <span style="color:red"> **on the job market** </span> for research positions in 2023, including full-time/internship positions in industry and post-docs positions. Don't hesitate to reach out to me (zli110 at jhu dot edu) if there is a potential fit:)
 
 In part time, I am a big fan of outdoor sports including rock climbing (recovering from a finger injury 😭), snowboarding, skiing, hiking, mountaineering, etc. Recently I also spent time in learning piano.
